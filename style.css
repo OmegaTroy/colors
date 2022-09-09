@@ -57,7 +57,7 @@ body{
 }
 
 .bg{
-    max-width: 34%;
+    max-width: 80%;
     height: 16vh;
     background-color: var(--Blanco);
     border: #000 dashed 2px;
